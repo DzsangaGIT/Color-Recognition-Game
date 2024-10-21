@@ -1,7 +1,5 @@
 # Goofy Color Recognition Game
 
-Welcome to the **Goofy Color Recognition Game**! This fun web game challenges players to identify colors within a specified time limit. It features a modern dark mode design and animated elements for a unique gaming experience.
-
 ## Features
 
 - Choose game duration: 30 seconds, 1 minute, or 2 minutes.
@@ -20,19 +18,19 @@ Welcome to the **Goofy Color Recognition Game**! This fun web game challenges pl
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/DzsangaGIT/goofy_color_game.git
+   git clone https://github.com/DzsangaGIT/Color-Recognition-Game.git
    ```
 
 2. **Navigate to the project directory**:
    ```bash
-   cd goofy_color_game
+   cd Color-Recognition-Game
    ```
 
 3. **Set up a local server** (e.g., XAMPP or MAMP) and place the project files in the `htdocs` directory.
 
 4. **Access the game** in your web browser:
    ```
-   http://localhost/goofy_color_game/goofy_game.php
+   http://localhost/Color-Recognition-Game/feladat.php
    ```
 
 ## Usage
