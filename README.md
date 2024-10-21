@@ -1,4 +1,3 @@
-```markdown
 # Goofy Color Recognition Game
 
 Welcome to the **Goofy Color Recognition Game**! This fun web game challenges players to identify colors within a specified time limit. It features a modern dark mode design and animated elements for a unique gaming experience.
@@ -48,6 +47,4 @@ Welcome to the **Goofy Color Recognition Game**! This fun web game challenges pl
 
 This project is licensed under the MIT License.
 
----
 
-```
