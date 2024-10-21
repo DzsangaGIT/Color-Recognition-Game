@@ -328,6 +328,5 @@ if ($endTime !== null && time() >= $endTime) {
         startGame();
     }
 </script>
-<!-- This took 7 hours please grade 5 -->
 </body>
 </html>
