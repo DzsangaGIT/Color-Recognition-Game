@@ -47,7 +47,7 @@ if ($endTime !== null && time() >= $endTime) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Goofy Színfelismerő Játék</title>
+    <title>Színfelismerő Játék</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
